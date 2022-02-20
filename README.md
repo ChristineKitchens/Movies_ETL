@@ -1,7 +1,7 @@
 # Extract, Transform, and Load with Wikipedia and Kaggle Movie Data
 
 ## Project Overview
-The script in the jupyter notebook [ETL_create_database.ipynb](https://github.com/InRegards2Pluto/Movies_ETL/blob/58114a33673295e42db7d586b2b10934e8c8cdb3/ETL_create_database.ipynb) combines and cleans data from Wikipedia and Kaggle for export into an SQL database. The script was prepared as part of a mock excercise where movie data from different sources were used to prepare a dataset for a media streaming hackathon. The exercise is designed to implement the Extract, Transform, and Load process (i.e. ETL) 
+The script in the jupyter notebook [ETL_create_database.ipynb](https://github.com/InRegards2Pluto/Movies_ETL/blob/58114a33673295e42db7d586b2b10934e8c8cdb3/ETL_create_database.ipynb) combines and cleans data from Wikipedia and Kaggle for export into an SQL database. The script was prepared as part of a mock excercise where movie data from different sources were used to prepare a dataset for a media streaming hackathon. The exercise is designed to implement the Extract, Transform, and Load process (i.e. ETL). 
 
 ## Instructions for Use
 Both Wikipedia and Kaggle datasets are available in this repository for use. The Kaggle dataset pulls from the MovieLens dataset of over 20 million reviews and contains a metadata file with details about the movies from The Movie Database (TMDb).
